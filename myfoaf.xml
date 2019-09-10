@@ -19,4 +19,18 @@
 <foaf:workplaceHomepage rdf:resource="https://github.com/rizheng1"/>
 <foaf:workInfoHomepage rdf:resource="I'm a code monkey"/>
 <foaf:schoolHomepage rdf:resource="https://www.umbc.edu/"/></foaf:Person>
+<foaf:Group>
+ <foaf:name>UMBC Student</foaf:name>
+ <foaf:member>
+  <foaf:Person>
+   <foaf:name>Rizheng Sun</foaf:name>
+   <foaf:homepage rdf:resource="https://github.com/rizheng1"/>
+   <foaf:workplaceHomepage rdf:resource="https://github.com/rizheng1"/>
+  </foaf:Person>
+ </foaf:member>
+</foaf:Group>
+<foaf:Project>
+ <foaf:name>Neural Network for UE4</foaf:name>
+ <foaf:description> A plugin for facilitating neural network creation and testing in Unreal Engine </foaf:description>
+</foaf:Project>
 </rdf:RDF>
